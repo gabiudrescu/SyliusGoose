@@ -31,6 +31,8 @@ Welcome to the SyliusGoose, which is the place you will find more information ab
 - [Stefan Doorn: Google Sitemap](https://github.com/stefandoorn/sitemap-plugin)
 - [Sylake: SyliusConsumerPlugin](https://github.com/Sylake/SyliusConsumerPlugin)
 - [Odiseo: OdiseoSyliusVendorPlugin](https://github.com/odiseoteam/SyliusVendorPlugin) - This plugin add vendors to the Sylius products.
+- [Urbanara: UrbanaraCatalogPromotionPlugin](https://github.com/URBANARA/UrbanaraCatalogPromotionPlugin) - This Plugin provides basic functionality of catalog promotion on a top of Sylius platform that is using ElasticSearch
+- [Snake-Tn: SyliusCatalogPromotionPlugin](https://github.com/Snake-Tn/SyliusCatalogPromotionPlugin) - Catalog promotion is a sylius plugin used to selectively apply promotions on certain products on product listing and product page level. The promotion is triggered before a product is placed into the shipping cart.
 
 #### Work in progress plugins
 
